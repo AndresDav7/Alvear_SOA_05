@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE agenda SYSTEM 'agendaDTD.dtd'>
+
+<agenda>
+    <contacto>
+        <nombre>Andrés</nombre>
+        <apellido>Alvear</apellido>
+        <telefono pais="Ecuador">099547695</telefono>
+        <email>andres.alvear01@epn.edu.ec</email>
+        <direccion>
+            <calle>Elm</calle>
+            <numero>1428</numero>
+            <cp>145236</cp>
+        </direccion>
+    </contacto>
+</agenda>
